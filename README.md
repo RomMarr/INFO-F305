@@ -11,10 +11,10 @@ Deux modifications ont été apportées à l'énoncé du projet d'INFO-F305 :
 2. Question 5.1 : l'équation alpha(T) a été modifiée pour prendre la température en paramètre en °C, et non en K, afin d'être cohérente avec le reste de l'équation.
 
 TODO:
-- [ ] Question 1
-- [ ] Question 2
-- [ ] Question 3
-- [ ] Question 4
-- [ ] Question 5
-- [ ] Rapport
+- [X] Question 1
+- [X] Question 2
+- [X] Question 3
+- [X] Question 4
+- [X] Question 5
+- [X] Rapport
   - Doit contenir une partie sur l'utilisation de chat GPT
